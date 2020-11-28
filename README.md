@@ -1,2 +1,2 @@
-# khajiitearsshow
-Mutagen patcher to force Khajiit Ears to show for all armor.
+# Amulets Show on Everything
+Automatic patcher to make Amulets show up on all armor.
